@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">exer2_conde_b4l</string>
+    <string name="action_settings">Settings</string>
+    <string name="disney_title">Which Disney Character Are You?</string>
+    <string name="logo">logo</string>
+    <string name="disney_button">Button</string>
+    <string name="disney_image">disney_image</string>
+    <string name="button">button</string>
+    <string name="main">
+        Who will it be?
+    </string>
+    <string name="hercules">
+        Armed with an adventure of a lifetime, you will find your way along the distance.
+        Filled with determination, you pave your own way in dealing with your problems,
+        solving them with brute force.\n\n
+
+        Hercules is compassionate, and his most dominant trait is, without a doubt, his innocence
+        and massively kind heart, in spite of being treated like a \"freak\" by his peers and those
+        around him (with the exception of his foster parents) throughout his childhood, and adolescent
+        years. His teenage years were difficult with his lack of coordination and tendency to break
+        things. Even after becoming a worldwide phenomenon, Hercules retained his innocence and
+        cheerful nature, not once letting the fame dangerously inflate his ego.
+    </string>
+    <string name="kida">
+        Innocence and curiosity are your main traits. So much of the world held undiscovered,
+        you won\'t miss out an opportunity to travel and get to experience
+        so many things in this beautiful world most especially her home, Atlantis.\n\n
+
+        She is also a warrior princess, making her strong and very skilled at combat. It is
+        mentioned that several thousand years ago, Kida would have killed outsiders on sight.
+        By the present time, however, Kida has become so curious about Atlantis\'s past that
+        she is willing to let in outsiders with the hope that they could help her rediscover
+        Atlantis\'s history, even as far as taking a liking to Milo. She is shown to love her
+        father, and later Milo, very much. Although she can seem quite forceful, violent, and
+        aggressive at times, she has a kind heart, and a general respect for all creatures.
+    </string>
+    <string name="kuzco">
+        Sees all the happiness and joy in everything, you never miss out on any party out there.
+        Even in your sorrows, you still manage to find that ray of sunshine and get your
+        groove in check.\n\n
+
+        Kuzco is initially portrayed as an arrogant, comically conceited, selfish, cocky,
+        sarcastic teenager, albeit with a sense of flair, style, and pizzazz, as he never
+        takes his job as emperor too seriously. His nature was petty such as having an old
+        man thrown out of the window (but not killing him) simply because Kuzco blamed him
+        for \"ruining his groove\" in the opening song (when Kuzco bumped into him due to not
+        being aware of his surroundings), as well as sadistically taunting Pacha with the
+        destruction of the latter\'s village before having him escorted out when revealing
+        his plans to create Kuzcotopia. He also was initially unwilling to marry any girls
+        who didn\'t meet his image, often bluntly and rudely dismissing them, as evidenced by
+        the opening of the movie where he had to choose the bride, and refused them just from
+        brief glances. It is implied that this personality stemmed from the fact that Yzma
+        practically raised him from childhood. However, it is also shown that his selfish ways
+        were a cover-up for his yearning for a family, which he never had.
+    </string>
+    <string name="marlin">
+        Your protective daddy instincts will always be first priority. You are responsible and
+        protective of your loved ones. There won\'t ever be a time that you won\'t tell someone
+        to look left and right while crossing the street.\n\n
+
+        Marlin has proven to love his son more than anything and anyone in this world, and it
+        is this love that fuels his determination, strength, courage, and bravery as he journeyed
+        throughout the sea to find his son after he is kidnapped by humans. Marlin overcame these
+        obstacles with bravery and courage not seen in his previous behavior to recover the person
+        he loved most in the world despite the odds being against him.
+    </string>
+    <string name="mickeymouse">
+        With a passion for justice and love, you will stand to fight for you and the people\'s
+        rights. Able to have a heart to serve for justice or maybe even give your life (not that
+        Minnie would agree).\n\n
+
+        Mickey is a devoted friend and cares deeply for his loved ones. This is most prominently
+        displayed in his relationship with his longtime girlfriend, Minnie Mouse. The two are shown
+        to be deeply in love with each other, and as such, Mickey has repeatedly gone to great lengths
+        to both ensure Minnie\'s happiness, and to impress her (sometimes out of insecurity of losing
+        her, as seen in \"Mickey Tries to Cook\"). In turn, Minnie is an avid supporter of Mickey and
+        openly returns his sentiments. Though his habit of forgetting special occasions and other
+        important matters annoy her, Minnie simultaneously serves as Mickey\'s better half,
+        bringing out the best of him, even after his own flaws create significant mayhem.
+    </string>
+    <string name="mowgli">
+        Drop everything and leave it up to your bear necessities and be one with nature. You live
+        your life with the minimum requirements. You love to go on hikes and discover and just be in
+        the vicinity of nature\'s beauty.\n\n
+
+        Mowgli is portrayed as an average child in the original film. Generally innocent and
+        happy-go-lucky, but had a difficult time dealing with rules, and even more so, change.
+        His goal throughout the film was to somehow find his place in the jungle, in hopes of
+        remaining there, despite the looming threat of Shere Khan. This ambition would cause
+        trouble for Mowgli, as he would unknowingly become the pawn of schemes from some
+        animals, such as Kaa the Python and King Louie, who both sought out to manipulate
+        Mowgli for their own, personal gain, rather than treating him as a member of their
+        family, which is truly what the man-cub desired.
+    </string>
+    <string name="quasimodo">
+        Love and kindness, the most important things that you think life needs. You are one of
+        a kind in this world, a heart of pure gold.\n\n
+
+        Due to being raised by Frollo, and being isolated from everyone else, Quasimodo
+        initially had fairly poor social skills. This is shown with his shyness and his
+        initial fear of Esmeralda. Additionally, when she displayed compassion towards
+        him, he jumped to the conclusion that she was romantically attracted to him,
+        and he was heavily heartbroken when she revealed that her heart belonged to
+        Phoebus. However, Quasimodo is still close friends with Phoebus and Esmeralda.
+    </string>
+    <string name="simba">
+        A great future lies ahead of you, with your charismatic and leadership-likeness. You
+        command a great fleet, you bring out the best in everyone, as what a ruler should be.
+        Beware. Hakuna Matata might not apply to you.\n\n
+
+        Simba was also shown to be a wise and respected ruler, much like Mufasa before him.
+        He had the prejudice against those who retained loyalty to the dethroned Scar,
+        but was willing to accept them eventually, as he followed the philosophy verbally
+        showcased in \"We Are One\". However, despite being King, Simba knows that he has to
+        respect the traditions of other animals, which was why he didn\'t interfere with
+        Makuu and Pua\'s mashindano.
+    </string>
+    <string name="sinbad">
+        Filled with a longing for adventure and mischievousness, you make the rules. Clever
+        in what you do and always gets away with everything. But not too much,
+        your luck might run out.\n\n
+
+        Sinbad and his pirate crew attempt to steal the magical \"Book of Peace\" while it
+        travels to Syracuse, Sicily, protected by Proteus. Proteus was once Sinbad\'s
+        best friend as a child and he tells him if it ever meant anything he can prove
+        it. Sinbad tries to steal the book anyway, but is prevented when Cetus the sea
+        monster attacks the ship. The two work together to fight off Cetus and for a
+        moment reaffirm their bond. Just when it seems the beast is defeated, Sinbad
+        is dragged off the ship. Proteus goes to rescue Sinbad, but he is stopped by his crew.
+    </string>
+    <string name="tinkerbell">
+        Small and silent but with a gigantic imagination. Anything is possible for you, from
+        flying to believing, all it takes is a little bit of pixie dust.\n\n
+
+        Despite her cute appearance, Tinker Bell is very sassy, feisty, stubborn, and hot-tempered.
+        Upon meeting Wendy and other human females, Tink immediately shows disgust and irritation,
+        mostly out of jealousy. This drives Tink to perform acts both selfish, and even murderous,
+        much to Peter\'s annoyance. However, despite her rough interior, at her core, Tinker Bell
+        is devoted and loyal to those she loves, and will eventually come to terms with those she
+        initially resents, should they prove themselves worthy of friendly treatment. This can be
+        seen, most notably, with her relation to Wendy Darling in the original film.
+    </string>
+
+    <string name="hercules_name">Hercules (1997), Hercules</string>
+    <string name="kida_name">Atlantis: The Lost Empire, Kida Nedakh</string>
+    <string name="kuzco_name">The Emperor\'s New Groove, Emperor Kuzco</string>
+    <string name="marlin_name">Finding Nemo, Marlin</string>
+    <string name="mickeymouse_name">Mickey Mouse, Mickey Mouse</string>
+    <string name="mowgli_name">Jungle Book, Mowgli</string>
+    <string name="quasimodo_name">The Hunchback of Notre Dame, Quasimodo</string>
+    <string name="simba_name">The Lion King, Simba</string>
+    <string name="sinbad_name">Sinbad: Legend of the Seven Seas, Sinbad</string>
+    <string name="tinkerbell_name">Peter Pan, Tinkerbell</string>
+
+    <string name="click">Click Here to Find Out!</string>
+    <string name="reset">Reset</string>
+</resources>
